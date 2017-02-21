@@ -1,0 +1,16 @@
+1. 新装备加入level 等级显示（旧装备默认为1）
+2. 新装备升级表，如果最大值（不变） 升级更改： 品质和属性（加成）
+3. 加入新装备升级开关。
+
+
+arm-linux-androideabi-g++: error: D:workcodetrunkWZSLclientTJ_P_01libs/cocos2dx/platform/third_party/android/prebuilt/libcurl/libs/armeabi-v7a/libcurl.a: No such file or directory
+arm-linux-androideabi-g++: error: D:workcodetrunkWZSLclientTJ_P_01libscocos2dxplatformthird_partyandroidprebuilt/libpng/libs/armeabi-v7a/libpng.a: No such file or directory
+arm-linux-androideabi-g++: error: D:workcodetrunkWZSLclientTJ_P_01libscocos2dxplatformthird_partyandroidprebuilt/libjpeg/libs/armeabi-v7a/libjpeg.a: No such file or directory
+arm-linux-androideabi-g++: error: D:workcodetrunkWZSLclientTJ_P_01libscocos2dxplatformthird_partyandroidprebuilt/libtiff/libs/armeabi-v7a/libtiff.a: No such file or directory
+arm-linux-androideabi-g++: error: D:workcodetrunkWZSLclientTJ_P_01libscocos2dxplatformthird_partyandroidprebuilt/libwebp/libs/armeabi-v7a/libwebp.a: No such file or directory
+make.exe: *** [obj/local/armeabi-v7a/libcocos2dcpp.so] Error 1
+
+新加key
+1，已申请 --- 公会预览，排行界面
+2，申请已达上限，是否取消 ---公会预览，排行界面
+3，公会，并申请新公会？--- 公会预览，排行界面
